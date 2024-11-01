@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sJjRHMkhO1Z+VfsZbeJSfzIxlsgfVd9YzgujXZFSJkk=",
+  "Source": "HospitalAppointmentSystem.WebAPI",
+  "BasePath": "_content/HospitalAppointmentSystem.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

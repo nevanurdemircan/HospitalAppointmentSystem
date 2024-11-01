@@ -1,0 +1,17 @@
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/bin/Debug/net8.0/HospitalAppointmentSystem.DataAccess.deps.json
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/bin/Debug/net8.0/HospitalAppointmentSystem.DataAccess.dll
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/bin/Debug/net8.0/HospitalAppointmentSystem.DataAccess.pdb
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/bin/Debug/net8.0/HospitalAppointmentSystem.Model.dll
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/bin/Debug/net8.0/HospitalAppointmentSystem.Model.pdb
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/obj/Debug/net8.0/HospitalAppointmentSystem.DataAccess.csproj.AssemblyReference.cache
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/obj/Debug/net8.0/HospitalAppointmentSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/obj/Debug/net8.0/HospitalAppointmentSystem.DataAccess.AssemblyInfoInputs.cache
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/obj/Debug/net8.0/HospitalAppointmentSystem.DataAccess.AssemblyInfo.cs
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/obj/Debug/net8.0/HospitalAppointmentSystem.DataAccess.csproj.CoreCompileInputs.cache
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/obj/Debug/net8.0/Hospital.1CB47234.Up2Date
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/obj/Debug/net8.0/HospitalAppointmentSystem.DataAccess.dll
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/obj/Debug/net8.0/refint/HospitalAppointmentSystem.DataAccess.dll
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/obj/Debug/net8.0/HospitalAppointmentSystem.DataAccess.pdb
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/obj/Debug/net8.0/ref/HospitalAppointmentSystem.DataAccess.dll
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/bin/Debug/net8.0/HospitalAppointmentSystem.DataAccess.runtimeconfig.json
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.DataAccess/obj/Debug/net8.0/HospitalAppointmentSystem.DataAccess.genruntimeconfig.cache

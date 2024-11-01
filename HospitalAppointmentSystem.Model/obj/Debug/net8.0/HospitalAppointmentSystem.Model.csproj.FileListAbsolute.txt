@@ -1,0 +1,12 @@
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.Model/bin/Debug/net8.0/HospitalAppointmentSystem.Model.deps.json
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.Model/bin/Debug/net8.0/HospitalAppointmentSystem.Model.dll
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.Model/bin/Debug/net8.0/HospitalAppointmentSystem.Model.pdb
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.Model/obj/Debug/net8.0/HospitalAppointmentSystem.Model.csproj.AssemblyReference.cache
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.Model/obj/Debug/net8.0/HospitalAppointmentSystem.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.Model/obj/Debug/net8.0/HospitalAppointmentSystem.Model.AssemblyInfoInputs.cache
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.Model/obj/Debug/net8.0/HospitalAppointmentSystem.Model.AssemblyInfo.cs
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.Model/obj/Debug/net8.0/HospitalAppointmentSystem.Model.csproj.CoreCompileInputs.cache
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.Model/obj/Debug/net8.0/HospitalAppointmentSystem.Model.dll
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.Model/obj/Debug/net8.0/refint/HospitalAppointmentSystem.Model.dll
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.Model/obj/Debug/net8.0/HospitalAppointmentSystem.Model.pdb
+/Users/neva/Desktop/HospitalAppointmentSystem/HospitalAppointmentSystem.Model/obj/Debug/net8.0/ref/HospitalAppointmentSystem.Model.dll
